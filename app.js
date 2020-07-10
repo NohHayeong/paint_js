@@ -7,8 +7,8 @@ const save = document.getElementById("jsSave");
 
 const INITIAL_COLOR = "#2c2c2c";
 
-canvas.width = 1400;
-canvas.height = 730;
+canvas.width = 1000;
+canvas.height = 500;
 
 ctx.fillStyle = "white";
 ctx.fillRect(0, 0, canvas.width, canvas.height);
